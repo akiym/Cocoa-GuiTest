@@ -13,3 +13,10 @@ Makefile.old
 nytprof.out
 MANIFEST.bak
 *.sw[po]
+/Cocoa-GuiTest-*
+/.build
+/_build_params
+/Build
+!Build/
+!META.json
+!LICENSE
