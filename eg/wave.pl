@@ -1,5 +1,5 @@
-use 5.016;
-use warnings FATAL => 'all';
+use strict;
+use warnings;
 use utf8;
 use Cocoa::GuiTest;
 use Time::HiRes qw/sleep/;

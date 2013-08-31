@@ -20,8 +20,7 @@
          "inc",
          "share",
          "eg",
-         "examples",
-         "author"
+         "builder"
       ]
    },
    "prereqs" : {

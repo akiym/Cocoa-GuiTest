@@ -12,16 +12,25 @@ Cocoa::GuiTest is
 
 # FUNCTIONS
 
-- SendLButtonUp()
-- SendLButtonDown()
-- SendMButtonUp()
-- SendMButtonDown()
-- SendRButtonUp()
-- SendRButtonDown()
-- MouseMoveAbsPix($x, $y)
-- MouseMoveRelPix($x, $y)
-- GetCursorPos()
-- GetScreenRes()
+## SendLButtonUp()
+
+## SendLButtonDown()
+
+## SendMButtonUp()
+
+## SendMButtonDown()
+
+## SendRButtonUp()
+
+## SendRButtonDown()
+
+## MouseMoveAbsPix($x, $y)
+
+## MouseMoveRelPix($x, $y)
+
+## GetCursorPos()
+
+## GetScreenRes()
 
 # AUTHOR
 
